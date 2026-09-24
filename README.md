@@ -123,6 +123,7 @@ Cross-validation
 Hyperparameter experimentation
 Comparing Naive Bayes with Logistic Regression, KNN, Decision Tree, and Random Forest
 Model deployment
-👨‍💻 Author
 
+
+👨‍💻 Author
 Yash Ohol
