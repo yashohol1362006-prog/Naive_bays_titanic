@@ -18,7 +18,7 @@ The notebook follows a complete Machine Learning workflow:
 
 ## 🤖 Machine Learning Algorithm
 
-### Naive Bayes
+### Naive Bayes 
 
 Naive Bayes is a probabilistic classification algorithm based on **Bayes' Theorem**. It assumes that the features are conditionally independent given the target class.
 
