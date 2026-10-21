@@ -2,7 +2,7 @@
 
 This project uses the **Titanic dataset** to predict whether a passenger survived using the **Naive Bayes classification algorithm**.
 
-## 📌 Project Overview
+## 📌 Project Overview 
 
 The notebook follows a complete Machine Learning workflow:
 
