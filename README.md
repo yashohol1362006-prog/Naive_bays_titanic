@@ -27,7 +27,7 @@ The model predicts:
 - `0` → Did not survive
 - `1` → Survived
 
-## 📊 Dataset
+## 📊 Dataset 
 
 The project uses the **Titanic dataset** available through the Seaborn library.
 
